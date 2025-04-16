@@ -6,4 +6,4 @@ Things I code with:
 React Webpack Docker github actions Google Cloud Platform TypeScript Insomnia Apollo Heroku redux ReactiveX GraphQL Sass Styled Components git NestJs angular npm html5 Brave browser Rollup d3js Prettier MongoDB Nodejs
 
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IWiseDreamI&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Contribution Stats](https://github-readme-stats.vercel.app/api?username=IWiseDreamI&show_icons=true&theme=dark&hide=prs,issues)

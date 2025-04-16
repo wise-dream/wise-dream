@@ -2,7 +2,7 @@
 **Fullstack разработчик | Vue · React · Angular · TypeScript · Go · Python · GraphQL · REST · Aiogram**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/vinokurov-kamil/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram)](https://t.me/yourusername)
+[![Telegram](https://img.shields.io/badge/Telegram-FFFFFF?style=flat&logo=telegram)](https://t.me/yourusername)
 
 ---
 

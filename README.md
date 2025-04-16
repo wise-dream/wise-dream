@@ -1,4 +1,4 @@
-# 👋 Привет! Я IWiseDreamI 
+# 👋 Привет! Я Камил
 **Fullstack разработчик | Vue · React · TypeScript · Go · Gin · Angular · GraphQL · REST**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/vinokurov-kamil/)

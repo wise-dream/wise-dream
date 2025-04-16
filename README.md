@@ -2,7 +2,7 @@
 **Fullstack разработчик | Vue · React · Angular · TypeScript · Go · Python · GraphQL · REST · Aiogram**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/vinokurov-kamil/)
-[![Telegram](https://img.shields.io/badge/Telegram-FFFFFF?style=flat&logo=telegram)](https://t.me/yourusername)
+[![Telegram](https://img.shields.io/badge/Telegram-FFFFFF?style=flat&logo=telegram)](https://t.me/Wise_Dream)
 
 ---
 
@@ -30,11 +30,11 @@
 ## 📈 Активность
 
 ### Календарь контрибуций
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IWiseDreamI&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wise-dream&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Статистика
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IWiseDreamI&show_icons=true&theme=dark&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IWiseDreamI&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wise-dream&show_icons=true&theme=dark&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wise-dream&layout=compact&theme=dark)
 
 ---
 

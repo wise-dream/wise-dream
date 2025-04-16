@@ -40,7 +40,7 @@
 
 ## 📫 Контакты
 - ✉️ **Email**: kamilvinokurov@gmail.com
-- 💼 **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 💼 **LinkedIn**: [Vinokurov Kamil](https://www.linkedin.com/in/vinokurov-kamil/)
 - 📱 **Telegram**: [@WiseDream](https://t.me/Wise_Dream)
 
 ---

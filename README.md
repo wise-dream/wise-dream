@@ -1,5 +1,6 @@
-# 👋 Привет! Я Камил  
-**Fullstack разработчик · Vue · React · Angular · TypeScript · Go · Python · GraphQL · REST · Aiogram**
+# Hi, I'm Kamil 👋
+
+**Fullstack Developer · Vue · React · Angular · TypeScript · Go · Python · GraphQL · REST · Aiogram**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/vinokurov-kamil/)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Wise_Dream)
@@ -7,15 +8,19 @@
 
 ---
 
-## 🚀 Обо мне
-- 🌍 Разрабатываю веб-сервисы и SaaS-продукты от идеи до продакшена  
-- 💡 Умею совмещать frontend и backend, продумывать архитектуру и бизнес-логику  
-- 📦 Опыт в интеграции API, работе с микросервисами и DevOps-инструментами  
-- 🎯 Цель — создавать удобные, надёжные и масштабируемые решения  
+## About Me
+
+Fullstack developer with 3.5+ years of experience building web services and SaaS products end-to-end — from architecture and API design to deployment and production support.
+
+- 🏗️ Design and ship scalable systems across the full stack, owning both frontend and backend
+- ⚙️ Comfortable with microservice architectures, RESTful and GraphQL APIs, and async workflows
+- 🐳 Experienced with containerisation, CI/CD pipelines, and Linux server environments
+- 🤖 Build Telegram bots and automation tools using Python & Aiogram
+- 🎯 Focused on clean code, maintainable architecture, and delivering real business value
 
 ---
 
-## 🛠 Технологии
+## Tech Stack
 
 ### Frontend
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white)
@@ -31,7 +36,7 @@
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
 ![REST](https://img.shields.io/badge/REST-FF6F61?logo=json&logoColor=white)
 
-### Инфраструктура и базы данных
+### Infrastructure & Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
@@ -39,16 +44,28 @@
 
 ---
 
-## 📈 Статистика
+## What I Work On
+
+- **Web apps & SaaS** — full product lifecycle: discovery → architecture → development → production
+- **API integrations** — third-party services, payment systems, webhooks, OAuth flows
+- **Telegram bots** — from simple automation to complex multi-step pipelines
+- **Internal tools & dashboards** — admin panels, analytics views, data-heavy UIs
+- **Performance & maintainability** — code reviews, refactoring legacy code, improving DX
+
+---
+
+## GitHub Stats
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wise-dream&layout=compact&theme=dark)
 
 ---
 
-## 📫 Контакты
-- ✉️ **Email**: kamilvinokurov@gmail.com  
-- 💼 **LinkedIn**: [Vinokurov Kamil](https://www.linkedin.com/in/vinokurov-kamil/)  
-- 📱 **Telegram**: [@WiseDream](https://t.me/Wise_Dream)  
+## Let's Connect
+
+- ✉️ **Email**: kamilvinokurov@gmail.com
+- 💼 **LinkedIn**: [Vinokurov Kamil](https://www.linkedin.com/in/vinokurov-kamil/)
+- 📱 **Telegram**: [@WiseDream](https://t.me/Wise_Dream)
 
 ---
 
-✨ *Открыт для сотрудничества и интересных проектов!*
+*Open to interesting projects, freelance work, and full-time opportunities.*

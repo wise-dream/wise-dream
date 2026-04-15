@@ -46,11 +46,11 @@ Fullstack developer with 3.5+ years of experience building web services and SaaS
 
 ## What I Work On
 
-- **Web apps & SaaS** — full product lifecycle: discovery → architecture → development → production
-- **API integrations** — third-party services, payment systems, webhooks, OAuth flows
-- **Telegram bots** — from simple automation to complex multi-step pipelines
-- **Internal tools & dashboards** — admin panels, analytics views, data-heavy UIs
-- **Performance & maintainability** — code reviews, refactoring legacy code, improving DX
+- **Web apps & SaaS** - full product lifecycle: discovery → architecture → development → production
+- **API integrations** - third-party services, payment systems, webhooks, OAuth flows
+- **Telegram bots** - from simple automation to complex multi-step pipelines
+- **Internal tools & dashboards** - admin panels, analytics views, data-heavy UIs
+- **Performance & maintainability** - code reviews, refactoring legacy code, improving DX
 
 ---
 
